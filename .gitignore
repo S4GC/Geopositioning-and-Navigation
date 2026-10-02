@@ -1,0 +1,11 @@
+data/*
+ourdata/*
+.venv/*
+src/*
+autocorrelacion_espacial.ipynb
+Basic_Strapdown_INS_EuRoC_V2_01.ipynb
+Class12092026_Docker.ipynb
+geospatial_weights.ipynb
+Notebook - Guia de Descarga Datos Parquet.ipynb
+uv.lock
+w_deptos_reina.gal
